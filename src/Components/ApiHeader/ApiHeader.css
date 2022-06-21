@@ -1,0 +1,6 @@
+.selectInput{
+    width: 10%;
+}
+.selectInput > option {
+    width: 10%;
+}
